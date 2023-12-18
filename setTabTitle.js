@@ -1,0 +1,1 @@
+javascript:( function(){ /* An empty string will leave the previous title unchanged. */ let ret = prompt('Set tab title to:', document.title); if (ret != null && ret.length > 0){ document.title = ret; }; } )();

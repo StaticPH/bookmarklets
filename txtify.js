@@ -1,0 +1,1 @@
+javascript:(function(){ document.location.href = 'https://txtify.it/' + document.location.href; })(); void(0);

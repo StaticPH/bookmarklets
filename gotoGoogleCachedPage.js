@@ -1,0 +1,1 @@
+javascript:(function(){ document.location.href = 'https://webcache.googleusercontent.com/search?q=cache:' + document.location.href; })(); void(0);

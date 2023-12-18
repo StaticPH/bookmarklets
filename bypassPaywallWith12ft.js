@@ -1,0 +1,1 @@
+javascript:(function(){ document.location.href = 'https://12ft.io/' + document.location.href; })(); void(0);

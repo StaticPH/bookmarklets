@@ -1,0 +1,1 @@
+javascript:(function(){let val = prompt('Specify playback speed as floating point number', 1.0); document.querySelectorAll('audio').forEach(e => e.playbackRate = val); void(0); })();

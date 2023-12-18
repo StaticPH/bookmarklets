@@ -1,0 +1,1 @@
+javascript:(function(){document.querySelectorAll('[href]').forEach(ele=>ele.href = ele.href); document.querySelectorAll('[src]').forEach(ele=>ele.src = ele.src);})();

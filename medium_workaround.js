@@ -1,0 +1,1 @@
+javascript:(function(){window.location.href = window.location.protocol + '//farside.link/scribe' + window.location.pathname + window.location.search + window.location.hash;})(); void(0);
